@@ -1,7 +1,7 @@
 # project1
 it is a markdown file
 <!DOCTYPE HTML>
-<<html>
+<html>
   <head>
     <title>Markdown file</title>
   </head>
