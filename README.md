@@ -6,7 +6,7 @@ it is a markdown file
     <title>Markdown file</title>
   </head>
   <body>
-    <h1>Project</h1>
+    <h1>Editing the file</h1>
     <p>this is a markdown file in this repository</p>
   </body>
 </html>
